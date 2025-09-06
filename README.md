@@ -18,16 +18,18 @@ Users can enter a topic → get unique multiple-choice questions → answer inte
 ---
 
 ## 🖼️ Screenshots  
-> _(Add your screenshots here after running the app)_  
+> <img width="1920" height="1027" alt="image" src="https://github.com/user-attachments/assets/ca123b14-1ee2-409c-9056-9c1d12ba2ee0" />
 
-**Home Screen**  
-![Home Screen](screenshots/home.png)  
+<img width="1917" height="1037" alt="image" src="https://github.com/user-attachments/assets/38499a95-ce12-48ae-9ea9-8ec494574754" />
+
+
 
 **Quiz Question Example**  
-![Quiz Question](screenshots/question.png)  
+<img width="1914" height="1030" alt="image" src="https://github.com/user-attachments/assets/6fda8ed6-fa46-4565-b340-f60bcdb40264" />
 
 **Translation Example**  
-![Translation](screenshots/translation.png)  
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/ad4664cb-1115-40cf-a65d-6430575861de" />
+
 
 ---
 
